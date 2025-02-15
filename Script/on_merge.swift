@@ -28,7 +28,7 @@ VideoUrl:
 <!---
 EXAMPLE
 Name: John Appleseed
-Status: Submitted <or> Accepted <or> Rejected
+Status: Submitted <or> Winner <or> Distinguished <or> Rejected
 Technologies: SwiftUI, RealityKit, CoreGraphic
 
 AboutMeUrl: https://linkedin.com/in/johnappleseed
@@ -56,14 +56,19 @@ for potentialTemplate in potentialTemplates {
     let lines = potentialTemplate.content.split(separator: "\n")
     
     guard lines.count >= 6 else { continue }
-    guard lines[0].hasPrefix("Name:") && lines[0].count > "Name: ".count else { continue }
-    guard lines[1].hasPrefix("Status:") && lines[1].count > "Status: ".count else { continue }
-    guard lines[2].hasPrefix("Technologies:") && lines[2].count > "Technologies: ".count else { continue }
+    guard lines[0].hasPrefix("Name:") else { continue }
+    guard lines[1].hasPrefix("Status:") else { continue }
+    guard lines[2].hasPrefix("Technologies:") else { continue }
     guard lines[3].hasPrefix("AboutMeUrl:") else { continue }
     guard lines[4].hasPrefix("SourceUrl:") else { continue }
     guard lines[5].hasPrefix("VideoUrl:") else { continue }
     
-    let newFilename = lines[0].replacingOccurrences(of: "Name: ", with: "").lowercased().replacingOccurrences(of: " ", with: "") + ".md"
+    let newFilename = lines[0]
+        .replacingOccurrences(of: "Name:", with: "")
+        .trimmingCharacters(in: .whitespacesAndNewlines)
+        .lowercased()
+        .replacingOccurrences(of: " ", with: "") + ".md"
+    
     validatedTemplates.append(
         (
             originalFilename: potentialTemplate.filename,
@@ -109,16 +114,25 @@ struct Submission {
     enum Status: String {
         case submitted = "Submitted"
         case accepted = "Accepted"
+        case winner = "Winner"
+        case distinguished = "Distinguished"
         case rejected = "Rejected"
+        case unknown = "Unknown"
         
         var iconURLString: String {
             switch self {
             case .submitted:
-                "https://img.shields.io/badge/submitted-grey?style=for-the-badge"
+                "https://img.shields.io/badge/submitted-slategrey?style=for-the-badge"
             case .accepted:
                 "https://img.shields.io/badge/accepted-green?style=for-the-badge"
+            case .winner:
+                "https://img.shields.io/badge/winner-green?style=for-the-badge"
+            case .distinguished:
+                "https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge"
             case .rejected:
                 "https://img.shields.io/badge/rejected-firebrick?style=for-the-badge"
+            case .unknown:
+                "https://img.shields.io/badge/unknown-grey?style=for-the-badge"
             }
         }
     }
@@ -159,6 +173,14 @@ struct Submission {
 // MARK: - Load all submission files into Submission model
 let submissionFiles = (try? fileManager.contentsOfDirectory(atPath: submissionsDirectoryName)) ?? []
 
+func toValue(_ string: String.SubSequence, key: String) -> String? {
+    let value = String(string)
+        .replacingOccurrences(of: key, with: "")
+        .trimmingCharacters(in: .whitespacesAndNewlines)
+    
+    return value.isEmpty ? nil : value
+}
+
 var submissions = [Submission]()
 for submissionFile in submissionFiles {
     guard let content = try? String(contentsOfFile: "\(submissionsDirectoryName)/\(submissionFile)", encoding: .utf8) else { continue }
@@ -167,36 +189,36 @@ for submissionFile in submissionFiles {
     guard lines.count >= 6 else { continue }
     
     let name: String? = if lines[0].hasPrefix("Name:") {
-        lines[0].replacingOccurrences(of: "Name: ", with: "")
+        toValue(lines[0], key: "Name:")
     } else { nil }
     
-    let status: Submission.Status? = if lines[1].hasPrefix("Status:") {
+    let status: Submission.Status? = if lines[1].hasPrefix("Status:"), let value = toValue(lines[1], key: "Status:") {
         .init(
-            rawValue: lines[1].replacingOccurrences(of: "Status: ", with: "")
+            rawValue: value
         )
     } else { nil }
     
-    let technologies: [String] = if lines[2].hasPrefix("Technologies:") {
-        lines[2].replacingOccurrences(of: "Technologies: ", with: "").split(separator: ", ").map { String($0) }
+    let technologies: [String] = if lines[2].hasPrefix("Technologies:"), let value = toValue(lines[2], key: "Technologies:") {
+        value.split(separator: ", ").map { String($0) }
     } else { [] }
     
-    let aboutMeUrl: URL? = if lines[3].hasPrefix("AboutMeUrl:") {
-        URL(string: lines[3].replacingOccurrences(of: "AboutMeUrl:", with: "").replacingOccurrences(of: " ", with: ""))
+    let aboutMeUrl: URL? = if lines[3].hasPrefix("AboutMeUrl:"), let value = toValue(lines[3], key: "AboutMeUrl:") {
+        URL(string: value)
     } else { nil }
     
-    let sourceUrl: URL? = if lines[4].hasPrefix("SourceUrl:") {
-        URL(string: lines[4].replacingOccurrences(of: "SourceUrl:", with: "").replacingOccurrences(of: " ", with: ""))
+    let sourceUrl: URL? = if lines[4].hasPrefix("SourceUrl:") , let value = toValue(lines[4], key: "SourceUrl:") {
+        URL(string: value)
     } else { nil }
     
-    let videoUrl: URL? = if lines[5].hasPrefix("VideoUrl:") {
-        URL(string: lines[5].replacingOccurrences(of: "VideoUrl:", with: "").replacingOccurrences(of: " ", with: ""))
+    let videoUrl: URL? = if lines[5].hasPrefix("VideoUrl:"), let value = toValue(lines[5], key: "VideoUrl:") {
+        URL(string: value)
     } else { nil }
     
-    guard let name, let status else { continue }
+    guard let name else { continue }
     submissions.append(
         .init(
             name: name,
-            status: status,
+            status: status ?? .unknown,
             technologies: technologies,
             aboutMeUrl: aboutMeUrl,
             sourceUrl: sourceUrl,
@@ -204,6 +226,10 @@ for submissionFile in submissionFiles {
         )
     )
 }
+
+//AboutMeUrl
+//SourceUrl
+//VideoUrl
 
 // MARK: - Generate new README.md file from template
 var readmeFile: String {
@@ -218,14 +244,16 @@ List of student submissions for the WWDC \(year) - \(name).
 2. Fill out the document based on the example in the comment below.
 3. Make a new Pull Request and wait for the review.
 
-### Submissions
+#### How to update your submission?
+If you would like to update your submission status please find your file in `Submission` directory. Edit file, update status and create Pull Request.
 
-Submissions: \(submissions.count)\\
-Accepted: \(submissions.filter { $0.status == .accepted }.count)
+### Submissions
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
 \(submissions.sorted(by: { $0.name < $1.name}).map(\.row).joined(separator: "\n"))
+
+##### Total: \(submissions.count) | Accepted: \(submissions.filter { $0.status == .accepted }.count)
 """
 }
 
