@@ -9,10 +9,10 @@ VideoUrl:
 <!---
 EXAMPLE
 Name: John Appleseed
-Status: Submitted <or> Accepted <or> Rejected
+Status: Submitted <or> Winner <or> Distinguished <or> Rejected
 Technologies: SwiftUI, RealityKit, CoreGraphic
 
-aboutMeUrl: https://linkedin.com/in/johnappleseed
-sourceUrl: https://github.com/johnappleseed/wwdc2025
-videoUrl: https://youtu.be/ABCDE123456
+AboutMeUrl: https://linkedin.com/in/johnappleseed
+SourceUrl: https://github.com/johnappleseed/wwdc2025
+VideoUrl: https://youtu.be/ABCDE123456
 -->
