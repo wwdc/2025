@@ -19,6 +19,7 @@ let submissionsDirectoryName = "Submission"
 let template = #"""
 Name:
 Status:
+ProjectTitle:
 Technologies:
 
 AboutMeUrl:
@@ -29,6 +30,7 @@ VideoUrl:
 EXAMPLE
 Name: John Appleseed
 Status: Submitted <or> Winner <or> Distinguished <or> Rejected
+ProjectTitle: The Accessibility Rose
 Technologies: SwiftUI, RealityKit, CoreGraphic
 
 AboutMeUrl: https://linkedin.com/in/johnappleseed
@@ -55,13 +57,14 @@ var validatedTemplates = [(originalFilename: String, newFilename: String, conten
 for potentialTemplate in potentialTemplates {
     let lines = potentialTemplate.content.split(separator: "\n")
     
-    guard lines.count >= 6 else { continue }
+    guard lines.count >= 7 else { continue }
     guard lines[0].hasPrefix("Name:") else { continue }
     guard lines[1].hasPrefix("Status:") else { continue }
-    guard lines[2].hasPrefix("Technologies:") else { continue }
-    guard lines[3].hasPrefix("AboutMeUrl:") else { continue }
-    guard lines[4].hasPrefix("SourceUrl:") else { continue }
-    guard lines[5].hasPrefix("VideoUrl:") else { continue }
+    guard lines[2].hasPrefix("ProjectTitle:") else { continue }
+    guard lines[3].hasPrefix("Technologies:") else { continue }
+    guard lines[4].hasPrefix("AboutMeUrl:") else { continue }
+    guard lines[5].hasPrefix("SourceUrl:") else { continue }
+    guard lines[6].hasPrefix("VideoUrl:") else { continue }
     
     let newFilename = lines[0]
         .replacingOccurrences(of: "Name:", with: "")
@@ -105,6 +108,7 @@ try? template.write(toFile: "Template.md", atomically: true, encoding: .utf8)
 struct Submission {
     let name: String
     let status: Status
+    let projectTitle: String?
     let technologies: [String]
     
     let aboutMeUrl: URL?
@@ -204,19 +208,24 @@ for submissionFile in submissionFiles {
         )
     } else { nil }
     
-    let technologies: [String] = if lines[2].hasPrefix("Technologies:"), let value = toValue(lines[2], key: "Technologies:") {
+    
+    let projectTitle: String? = if lines[2].hasPrefix("ProjectTitle:") {
+        toValue(lines[2], key: "ProjectTitle:")
+    } else { nil }
+    
+    let technologies: [String] = if lines[3].hasPrefix("Technologies:"), let value = toValue(lines[3], key: "Technologies:") {
         value.split(separator: ", ").map { String($0) }
     } else { [] }
     
-    let aboutMeUrl: URL? = if lines[3].hasPrefix("AboutMeUrl:"), let value = toValue(lines[3], key: "AboutMeUrl:"), let url = URL(string: value), url.isValid {
+    let aboutMeUrl: URL? = if lines[4].hasPrefix("AboutMeUrl:"), let value = toValue(lines[4], key: "AboutMeUrl:"), let url = URL(string: value), url.isValid {
         url
     } else { nil }
     
-    let sourceUrl: URL? = if lines[4].hasPrefix("SourceUrl:") , let value = toValue(lines[4], key: "SourceUrl:"), let url = URL(string: value), url.isValid {
+    let sourceUrl: URL? = if lines[5].hasPrefix("SourceUrl:") , let value = toValue(lines[5], key: "SourceUrl:"), let url = URL(string: value), url.isValid {
         url
     } else { nil }
     
-    let videoUrl: URL? = if lines[5].hasPrefix("VideoUrl:"), let value = toValue(lines[5], key: "VideoUrl:"), let url = URL(string: value), url.isValid {
+    let videoUrl: URL? = if lines[6].hasPrefix("VideoUrl:"), let value = toValue(lines[6], key: "VideoUrl:"), let url = URL(string: value), url.isValid {
         url
     } else { nil }
     
@@ -225,6 +234,7 @@ for submissionFile in submissionFiles {
         .init(
             name: name,
             status: status ?? .unknown,
+            projectTitle: projectTitle,
             technologies: technologies,
             aboutMeUrl: aboutMeUrl,
             sourceUrl: sourceUrl,
@@ -232,10 +242,6 @@ for submissionFile in submissionFiles {
         )
     )
 }
-
-//AboutMeUrl
-//SourceUrl
-//VideoUrl
 
 // MARK: - Generate new README.md file from template
 var readmeFile: String {
