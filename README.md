@@ -17,4 +17,4 @@ If you would like to update your submission status please find your file in `Sub
 |-----:|:------:|:-----------:|:-------------|:------:|
 
 
-##### Total: 0 | Accepted: 0##### Total: 0 | Awarded: 0
+##### Total: 0 | Awarded: 0
