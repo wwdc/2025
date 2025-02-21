@@ -265,7 +265,7 @@ If you would like to update your submission status please find your file in `Sub
 |-----:|:------:|:-----------:|:-------------|:------:|
 \(submissions.sorted(by: { $0.name < $1.name}).map(\.row).joined(separator: "\n"))
 
-##### Total: \(submissions.count) | Accepted: \(submissions.filter { $0.status == .accepted }.count)
+##### Total: \(submissions.count) | Accepted: \(submissions.filter { $0.status == .accepted }.count)##### Total: \(submissions.count) | Awarded: \(submissions.filter { $0.status == .accepted || $0.status == .distinguished || $0.status == .winner }.count)
 """
 }
 
