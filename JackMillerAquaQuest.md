@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Jack Miller
+Status: Submitted
+ProjectTitle: AquaQuest
+Technologies: RealityKit, SwiftData, TipKit
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: jackmiller.dev
+SourceUrl: https://github.com/millerswiftdev/AquaQuest
+VideoUrl: Coming Soon
 
 <!---
 EXAMPLE
