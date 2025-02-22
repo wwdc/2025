@@ -17,6 +17,6 @@ If you would like to update your submission status please find your file in `Sub
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
+|[Morris Richman](https://mcrich23.com)|[GitHub](https://github.com/Mcrich23/Anchor)|[Video](https://github.com/user-attachments/assets/beb6a3f1-38db-4475-8765-00a0d28a4164)|SwiftUI, Speech, AVFoundation, CoreHaptics, Combine, SwiftData, PencilKit, MediaPlayer|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-
-##### Total: 0 | Awarded: 0
+##### Total: 1 | Awarded: 0

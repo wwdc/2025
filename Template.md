@@ -1,11 +1,11 @@
-Name: Morris Richman
-Status: Submitted
-ProjectTitle: Anchor
-Technologies: SwiftUI, Speech, AVFoundation, CoreHaptics, Combine, SwiftData, PencilKit, MediaPlayer
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://mcrich23.com
-SourceUrl: https://github.com/Mcrich23/Anchor
-VideoUrl: https://github.com/user-attachments/assets/beb6a3f1-38db-4475-8765-00a0d28a4164
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
