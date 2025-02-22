@@ -3,7 +3,7 @@ Status: Submitted
 ProjectTitle: AquaQuest
 Technologies: RealityKit, SwiftData, TipKit
 
-AboutMeUrl: jackmiller.dev
+AboutMeUrl: https://jackmiller.dev
 SourceUrl: https://github.com/millerswiftdev/AquaQuest
 VideoUrl: Coming Soon
 
