@@ -12,6 +12,7 @@ import Foundation
 // MARK: - Constants
 let year = 2025
 let name = "Swift Student Challenge"
+let youtubeUrl: URL? = URL(string: "https://www.youtube.com/playlist?list=PLqd2SyUtGMSTu0Nel_74DvIQXxBfaLPu9")
 
 let templateFileName = "Template.md"
 let submissionsDirectoryName = "Submission"
@@ -249,7 +250,7 @@ var readmeFile: String {
 # WWDC \(year) - \(name)
 ![WWDC\(year) Logo](logo.png)
 
-List of student submissions for the WWDC \(year) - \(name).
+List of student submissions for the WWDC \(year) - \(name).\(youtubeUrl == nil ? "" : " Check out the [YouTube Playlist](\(youtubeUrl?.absoluteString ?? "") to watch the projects.")
 
 ### How to add your submission?
 1. [Click here](https://github.com/wwdc/\(year)/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
