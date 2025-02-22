@@ -245,13 +245,21 @@ for submissionFile in submissionFiles {
 }
 
 // MARK: - Generate new README.md file from template
+let additionalDescription: String = if let youtubeUrl {
+"""
+
+Check out the [YouTube Playlist](\(youtubeUrl.absoluteString) to watch the projects.
+
+"""
+} else { "" }
+
 var readmeFile: String {
 """
 # WWDC \(year) - \(name)
 ![WWDC\(year) Logo](logo.png)
 
-List of student submissions for the WWDC \(year) - \(name).\(youtubeUrl == nil ? "" : " Check out the [YouTube Playlist](\(youtubeUrl?.absoluteString ?? "")) to watch the projects.")
-
+List of student submissions for the WWDC \(year) - \(name).
+\(additionalDescription)
 ### How to add your submission?
 1. [Click here](https://github.com/wwdc/\(year)/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
 2. Fill out the document based on the example in the comment below.
