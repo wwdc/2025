@@ -250,7 +250,7 @@ var readmeFile: String {
 # WWDC \(year) - \(name)
 ![WWDC\(year) Logo](logo.png)
 
-List of student submissions for the WWDC \(year) - \(name).\(youtubeUrl == nil ? "" : " Check out the [YouTube Playlist](\(youtubeUrl?.absoluteString ?? "") to watch the projects.")
+List of student submissions for the WWDC \(year) - \(name).\(youtubeUrl == nil ? "" : " Check out the [YouTube Playlist](\(youtubeUrl?.absoluteString ?? "")) to watch the projects.")
 
 ### How to add your submission?
 1. [Click here](https://github.com/wwdc/\(year)/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
