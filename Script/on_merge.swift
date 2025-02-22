@@ -248,7 +248,7 @@ for submissionFile in submissionFiles {
 let additionalDescription: String = if let youtubeUrl {
 """
 
-Check out the [YouTube Playlist](\(youtubeUrl.absoluteString) to watch the projects.
+Check out the [YouTube Playlist](\(youtubeUrl.absoluteString)) to watch the projects.
 
 """
 } else { "" }
