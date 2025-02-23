@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Lucas Lavajo
+Status: Submitted
+ProjectTitle: Movies
+Technologies: SwiftUI, CoreMotion, Vision
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://tryon-lab.fr
+SourceUrl: https://github.com/tryon-dev/wwdc2025
+VideoUrl: 
 
 <!---
 EXAMPLE
