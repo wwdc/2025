@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Kevin Mekic
+Status: Submitted
+ProjectTitle: Social Battery Tracker
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://www.linkedin.com/in/kevin-mekic-b5833b170/
+SourceUrl: https://github.com/kevinmekic/wwdc2025
 VideoUrl:
 
 <!---
