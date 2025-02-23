@@ -18,6 +18,7 @@ If you would like to update your submission status please find your file in `Sub
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
 |[Jack Miller](https://jackmiller.dev)|[GitHub](https://github.com/millerswiftdev/AquaQuest)|-|RealityKit, SwiftData, TipKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Kevin Mekic](https://www.linkedin.com/in/kevin-mekic-b5833b170/)|[GitHub](https://github.com/kevinmekic/wwdc2025)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Morris Richman](https://mcrich23.com)|[GitHub](https://github.com/Mcrich23/Anchor)|[Video](https://github.com/user-attachments/assets/beb6a3f1-38db-4475-8765-00a0d28a4164)|SwiftUI, Speech, CoreHaptics, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 2 | Awarded: 0
+##### Total: 3 | Awarded: 0
