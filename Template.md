@@ -1,11 +1,11 @@
-Name: James Deming Kong
-Status: Submitted
-ProjectTitle: Home Gym
-Technologies: SwiftUI, Vision, Charts, AVSpeechSynthesizer
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://jameskong098.github.io/
-SourceUrl: https://github.com/jameskong098/home-gym
-VideoUrl: https://www.youtube.com/watch?v=rw4rHrYH1G0
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
