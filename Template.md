@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Riju Ishiwatari
+Status: Submitted
+ProjectTitle: OrbitPlay
+Technologies: SwiftUI, ARKit, SceneKit, Charts
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://x.com/acrostorn?s=21
+SourceUrl: https://github.com/acrostorn/OrbitPlay
 VideoUrl:
 
 <!---
