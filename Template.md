@@ -1,9 +1,9 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Myung Joon Kang
+Status: Submitted
+ProjectTitle: SpeechPath
+Technologies: SwiftUI, AVFoundation, Speech
 
-AboutMeUrl:
+AboutMeUrl: www.x.com/myungjoonkang
 SourceUrl:
 VideoUrl:
 
