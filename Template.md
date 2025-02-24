@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Richard Simonik
+Status: Submitted
+ProjectTitle: CPR Helper
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://linkedin.com/in/richard-šimoník-6603712a2
+SourceUrl: https://github.com/risasim/CPRHelperv2
 VideoUrl:
 
 <!---
