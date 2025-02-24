@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Roscoe Rubin-Rottenberg
+Status: Submitted
+ProjectTitle: Cue
+Technologies: SwiftUI, Speech, AVFoundation, Combine
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://knotbin.xyz
+SourceUrl: https://github.com/knotbin/ssc-25
 VideoUrl:
 
 <!---
