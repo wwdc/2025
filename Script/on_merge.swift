@@ -32,7 +32,7 @@ EXAMPLE
 Name<required>: John Appleseed
 Status<required>: Submitted <or> Winner <or> Distinguished <or> Rejected
 ProjectTitle: The Accessibility Rose
-Technologies<4 maximum>: SwiftUI, RealityKit, CoreGraphic 
+Technologies<only the first 4 are visible>: SwiftUI, RealityKit, CoreGraphic 
 
 AboutMeUrl: https://linkedin.com/in/johnappleseed <
 SourceUrl: https://github.com/johnappleseed/wwdc2025
@@ -163,7 +163,7 @@ struct Submission {
             "-"
         }
         
-        let technologiesRow = technologies.joined(separator: ", ")
+        let technologiesRow = technologies.prefix(4).joined(separator: ", ")
         
         let statusRow: String = "![\(status.rawValue)](\(status.iconURLString))"
         
