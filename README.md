@@ -22,5 +22,6 @@ If you would like to update your submission status please find your file in `Sub
 |[Kevin Mekic](https://www.linkedin.com/in/kevin-mekic-b5833b170/)|[GitHub](https://github.com/kevinmekic/wwdc2025)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Lucas Lavajo](https://tryon-lab.fr)|[GitHub](https://github.com/tryon-dev/wwdc2025)|-|SwiftUI, CoreMotion, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Morris Richman](https://mcrich23.com)|[GitHub](https://github.com/Mcrich23/Anchor)|[Video](https://github.com/user-attachments/assets/beb6a3f1-38db-4475-8765-00a0d28a4164)|SwiftUI, Speech, CoreHaptics, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|Raphaël Schröder|[GitHub](https://github.com/raphckrman/WWDC-SSC)|-|SwiftUI, CoreHaptics, SwiftData, UserNotifications|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 5 | Awarded: 0
+##### Total: 6 | Awarded: 0
