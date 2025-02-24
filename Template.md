@@ -1,10 +1,10 @@
-Name: Raphaël Schröder
-Status: Submitted
-ProjectTitle: ReCall
-Technologies: SwiftUI, CoreHaptics, SwiftData, UserNotifications
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
 AboutMeUrl:
-SourceUrl: https://github.com/raphckrman/WWDC-SSC
+SourceUrl:
 VideoUrl:
 
 <!---
