@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name:Chawabhon Netisingha (Jnx03)
+Status:Submitted
+ProjectTitle:Syntaxia
+Technologies:SwiftUI, Speech synthesis, Natural Language, Avfoundation , AVKit , AudioToolbox , Vision , UniformTypeIdentifiers , ScreenKit
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://www.jnx03.xyz/
+SourceUrl: https://github.com/JNX03/Syntaxia
+VideoUrl: https://youtu.be/zJ4cAt7An84
 
 <!---
 EXAMPLE
