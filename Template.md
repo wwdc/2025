@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: András Baki
+Status: Submitted
+ProjectTitle: FindTheApple
+Technologies: SwiftUI
 
 AboutMeUrl:
-SourceUrl:
+SourceUrl: https://github.com/ANDREW414E44524557/findtheapple
 VideoUrl:
 
 <!---
