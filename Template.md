@@ -1,10 +1,10 @@
-Name: Hunor Zoltáni
-Status: Submitted
-ProjectTitle: (Not) Lost
-Technologies: SwiftUI, AVKit, Observation
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://ronuhz.me
-SourceUrl: https://github.com/Ronuhz/Swift-Student-Challenge-2025
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
