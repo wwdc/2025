@@ -18,6 +18,7 @@ If you would like to update your submission status please find your file in `Sub
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
 |Alexandros Samonakis|[GitHub](https://github.com/AloneAlexandros/SSC2025)|[YouTube](https://youtu.be/qnYDLUdTiG8)|SwiftUI, Vision, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|András Baki|[GitHub](https://github.com/ANDREW414E44524557/findtheapple)|-|SwiftUI, Foundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Chawabhon Netisingha (Jnx03)](https://www.jnx03.xyz/)|[GitHub](https://github.com/JNX03/Syntaxia)|[YouTube](https://youtu.be/zJ4cAt7An84)|SwiftUI, Speech synthesis, Natural Language, Avfoundation |![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Francesco Paciello](https://x.com/paciosdev)|[GitHub](https://github.com/paciosdev/Adventure-of-a-Distinguished-Winner-SSC25-)|-|SwiftUI, SpriteKit, AVFoundation, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Hunor Zoltáni](https://ronuhz.me)|[GitHub](https://github.com/Ronuhz/Swift-Student-Challenge-2025)|-|SwiftUI, AVKit, Observation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -32,4 +33,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Richard Simonik](https://linkedin.com/in/richard-%C5%A1imon%C3%ADk-6603712a2)|[GitHub](https://github.com/risasim/CPRHelperv2)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Riju Ishiwatari](https://x.com/acrostorn?s=21)|[GitHub](https://github.com/acrostorn/OrbitPlay)|-|SwiftUI, ARKit, SceneKit, Charts|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 14 | Awarded: 0
+##### Total: 15 | Awarded: 0
