@@ -19,6 +19,7 @@ If you would like to update your submission status please find your file in `Sub
 |-----:|:------:|:-----------:|:-------------|:------:|
 |Alexandros Samonakis|[GitHub](https://github.com/AloneAlexandros/SSC2025)|[YouTube](https://youtu.be/qnYDLUdTiG8)|SwiftUI, Vision, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |András Baki|[GitHub](https://github.com/ANDREW414E44524557/findtheapple)|-|SwiftUI, Foundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Asser Osama](https://www.linkedin.com/in/asserusama/)|-|[YouTube](https://youtu.be/b1dvqV9dZwo?si=Acd2yAONKrWTEb24)|Vision, SwiftUI, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Chawabhon Netisingha (Jnx03)](https://www.jnx03.xyz/)|[GitHub](https://github.com/JNX03/Syntaxia)|[YouTube](https://youtu.be/zJ4cAt7An84)|SwiftUI, Speech synthesis, Natural Language, Avfoundation |![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Francesco Paciello](https://x.com/paciosdev)|[GitHub](https://github.com/paciosdev/Adventure-of-a-Distinguished-Winner-SSC25-)|-|SwiftUI, SpriteKit, AVFoundation, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Hunor Zoltáni](https://ronuhz.me)|[GitHub](https://github.com/Ronuhz/Swift-Student-Challenge-2025)|-|SwiftUI, AVKit, Observation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -34,4 +35,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Riju Ishiwatari](https://x.com/acrostorn?s=21)|[GitHub](https://github.com/acrostorn/OrbitPlay)|-|SwiftUI, ARKit, SceneKit, Charts|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Roscoe Rubin-Rottenberg](https://knotbin.xyz)|[GitHub](https://github.com/knotbin/ssc-25)|[YouTube](https://youtu.be/GgueyJrMiuQ?si=OmIf2fHv0LlNXYWk)|SwiftUI, Speech, AVFoundation, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 16 | Awarded: 0
+##### Total: 17 | Awarded: 0
