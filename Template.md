@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Philipp Ollmann
+Status: Submitted
+ProjectTitle: Fidget Synth
+Technologies: SwiftUI, CoreAudio
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://www.linkedin.com/in/philipp-ollmann/](https://philipp-ollmann.super.site/
+SourceUrl: https://github.com/philippollmann/wwdc25-fidgetsynth
+VideoUrl: https://youtu.be/NHBF3pVmhHw
 
 <!---
 EXAMPLE
