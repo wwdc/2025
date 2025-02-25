@@ -3,7 +3,7 @@ Status: Submitted
 ProjectTitle: SpeechPath
 Technologies: SwiftUI, AVFoundation, Speech
 
-AboutMeUrl: www.x.com/myungjoonkang
+AboutMeUrl: https://www.x.com/myungjoonkang
 SourceUrl:
 VideoUrl:
 
