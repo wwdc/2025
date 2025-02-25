@@ -12,7 +12,7 @@ import Foundation
 // MARK: - Constants
 let year = 2025
 let name = "Swift Student Challenge"
-let youtubeUrl: URL? = URL(string: "https://www.youtube.com/playlist?list=PLqd2SyUtGMSTu0Nel_74DvIQXxBfaLPu9")
+let youtubeUrl: URL? = URL(string: "https://youtube.com/playlist?list=PL0GynU2GmYtQhEjMX1i8KR3By7SugZEHL&si=k-e0kU_MboQ9uuWM")
 
 let templateFileName = "Template.md"
 let submissionsDirectoryName = "Submission"
