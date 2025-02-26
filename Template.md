@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: [sailorworks](https://raw.githubusercontent.com/sailorworks/myresume/main/sahilresume.pdf)
+Status: submitted
+ProjectTitle: AR Mastermind
+Technologies: SwiftUI, RealityKit, Combine
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: [Social](https://x.com/sailorworks)
+SourceUrl: [GitHub](https://github.com/sailorworks/swift25)
+VideoUrl: [X](https://x.com/sailorworks/status/1892823290206679442)
 
 <!---
 EXAMPLE
