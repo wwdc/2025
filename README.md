@@ -37,5 +37,6 @@ If you would like to update your submission status please find your file in `Sub
 |[Richard Simonik](https://linkedin.com/in/richard-%C5%A1imon%C3%ADk-6603712a2)|[GitHub](https://github.com/risasim/CPRHelperv2)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Riju Ishiwatari](https://x.com/acrostorn?s=21)|[GitHub](https://github.com/acrostorn/OrbitPlay)|-|SwiftUI, ARKit, SceneKit, Charts|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Roscoe Rubin-Rottenberg](https://knotbin.xyz)|[GitHub](https://github.com/knotbin/ssc-25)|[YouTube](https://youtu.be/GgueyJrMiuQ?si=OmIf2fHv0LlNXYWk)|SwiftUI, Speech, AVFoundation, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Sahil Prasad](https://x.com/sailorworks)|[GitHub](https://github.com/sailorworks/swift25)|-|SwiftUI, RealityKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 20 | Awarded: 0
+##### Total: 21 | Awarded: 0

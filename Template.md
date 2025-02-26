@@ -1,10 +1,10 @@
-Name: Sahil Prasad
-Status: Submitted
-ProjectTitle: AR Mastermind
-Technologies: SwiftUI, RealityKit, Combine
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://x.com/sailorworks
-SourceUrl: https://github.com/sailorworks/swift25
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
@@ -12,7 +12,7 @@ EXAMPLE
 Name<required>: John Appleseed
 Status<required>: Submitted <or> Winner <or> Distinguished <or> Rejected
 ProjectTitle: The Accessibility Rose
-Technologies<only the first 4 are visible>: SwiftUI, RealityKit, CoreGraphic
+Technologies<only the first 4 are visible>: SwiftUI, RealityKit, CoreGraphic 
 
 AboutMeUrl: https://linkedin.com/in/johnappleseed <
 SourceUrl: https://github.com/johnappleseed/wwdc2025
