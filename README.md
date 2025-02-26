@@ -31,9 +31,10 @@ If you would like to update your submission status please find your file in `Sub
 |[Morris Richman](https://mcrich23.com)|[GitHub](https://github.com/Mcrich23/Anchor)|[Video](https://github.com/user-attachments/assets/beb6a3f1-38db-4475-8765-00a0d28a4164)|SwiftUI, Speech, CoreHaptics, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Myung Joon Kang](https://www.x.com/myungjoonkang)|-|-|SwiftUI, AVFoundation, Speech|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[OliverPark](https://www.olivergpark.com)|[GitHub](https://github.com/oliver0828-dev/JeongKimchi)|-|SwiftUI, MapKit, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Om Chachad](https://omchachad.com)|[GitHub](https://github.com/OmChachad/DubDubCircle)|-|SwiftUI, VisionKit, Genmoji, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Raphaël Schröder|[GitHub](https://github.com/raphckrman/WWDC-SSC)|-|SwiftUI, CoreHaptics, SwiftData, UserNotifications|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Richard Simonik](https://linkedin.com/in/richard-%C5%A1imon%C3%ADk-6603712a2)|[GitHub](https://github.com/risasim/CPRHelperv2)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Riju Ishiwatari](https://x.com/acrostorn?s=21)|[GitHub](https://github.com/acrostorn/OrbitPlay)|-|SwiftUI, ARKit, SceneKit, Charts|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Roscoe Rubin-Rottenberg](https://knotbin.xyz)|[GitHub](https://github.com/knotbin/ssc-25)|[YouTube](https://youtu.be/GgueyJrMiuQ?si=OmIf2fHv0LlNXYWk)|SwiftUI, Speech, AVFoundation, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 18 | Awarded: 0
+##### Total: 19 | Awarded: 0
