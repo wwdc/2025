@@ -4,8 +4,8 @@ ProjectTitle: Okaz
 Technologies: SwiftUI, PS algorithms (Greedy, Brute Force, Dynamic Programming & DP Table)
 
 AboutMeUrl: https://www.linkedin.com/in/mhmd-ebrahim
-SourceUrl:
-VideoUrl:
+SourceUrl: 
+VideoUrl: https://youtu.be/QXox8H-kWo0?si=BJue2fhX-Rt0aUUB
 
 <!---
 EXAMPLE
