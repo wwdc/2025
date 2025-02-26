@@ -1,10 +1,10 @@
-Name: Om Chachad
-Status: Submitted
-ProjectTitle: Dub Dub Circle
-Technologies: SwiftUI, VisionKit, Genmoji, SwiftData, SubViewOf, Navigation Transitions, Scroll Transitions, MapKit, Vision
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://omchachad.com
-SourceUrl: https://github.com/OmChachad/DubDubCircle
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
