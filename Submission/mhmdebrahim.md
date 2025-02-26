@@ -1,7 +1,7 @@
 Name: Mhmd Ebrahim
 Status: Submitted
 ProjectTitle: Okaz
-Technologies: SwiftUI, PS algorithms (Greedy, Brute Force, Dynamic Programming & DP Table)
+Technologies: SwiftUI, PS algorithms
 
 AboutMeUrl: https://www.linkedin.com/in/mhmd-ebrahim
 SourceUrl: 
