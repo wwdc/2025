@@ -1,5 +1,5 @@
 Name: Sahil Prasad
-Status: submitted
+Status: Submitted
 ProjectTitle: AR Mastermind
 Technologies: SwiftUI, RealityKit, Combine
 
