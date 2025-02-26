@@ -1,18 +1,18 @@
-Name: [sailorworks](https://raw.githubusercontent.com/sailorworks/myresume/main/sahilresume.pdf)
+Name: Sahil Prasad
 Status: submitted
 ProjectTitle: AR Mastermind
 Technologies: SwiftUI, RealityKit, Combine
 
-AboutMeUrl: [Social](https://x.com/sailorworks)
-SourceUrl: [GitHub](https://github.com/sailorworks/swift25)
-VideoUrl: [X](https://x.com/sailorworks/status/1892823290206679442)
+AboutMeUrl: https://x.com/sailorworks
+SourceUrl: https://github.com/sailorworks/swift25
+VideoUrl:
 
 <!---
 EXAMPLE
 Name<required>: John Appleseed
 Status<required>: Submitted <or> Winner <or> Distinguished <or> Rejected
 ProjectTitle: The Accessibility Rose
-Technologies<only the first 4 are visible>: SwiftUI, RealityKit, CoreGraphic 
+Technologies<only the first 4 are visible>: SwiftUI, RealityKit, CoreGraphic
 
 AboutMeUrl: https://linkedin.com/in/johnappleseed <
 SourceUrl: https://github.com/johnappleseed/wwdc2025
