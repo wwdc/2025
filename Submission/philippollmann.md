@@ -3,7 +3,7 @@ Status: Submitted
 ProjectTitle: Fidget Synth
 Technologies: SwiftUI, CoreAudio
 
-AboutMeUrl: https://www.linkedin.com/in/philipp-ollmann/](https://philipp-ollmann.super.site/
+AboutMeUrl: https://philipp-ollmann.super.site/
 SourceUrl: https://github.com/philippollmann/wwdc25-fidgetsynth
 VideoUrl: https://youtu.be/NHBF3pVmhHw
 
