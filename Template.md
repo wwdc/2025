@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
-Status: Submitted 
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://x.com/pllenin42
+AboutMeUrl:
 SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+VideoUrl:
 
 <!---
 EXAMPLE
