@@ -28,6 +28,7 @@ If you would like to update your submission status please find your file in `Sub
 |[James Deming Kong](https://jameskong098.github.io/)|[GitHub](https://github.com/jameskong098/home-gym)|[YouTube](https://www.youtube.com/watch?v=rw4rHrYH1G0)|SwiftUI, Vision, Charts, AVSpeechSynthesizer|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Kevin Mekic](https://www.linkedin.com/in/kevin-mekic-b5833b170/)|[GitHub](https://github.com/kevinmekic/wwdc2025)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Lucas Lavajo](https://tryon-lab.fr)|[GitHub](https://github.com/tryon-dev/wwdc2025)|-|SwiftUI, CoreMotion, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Lukas Lauerer](https://www.twitter.com/custusfox)|[GitHub](https://github.com/Black-Fox-2022/SpotOn-SSC25)|-|SwiftUI, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Mhmd Ebrahim](https://www.linkedin.com/in/mhmd-ebrahim)|-|[YouTube](https://youtu.be/QXox8H-kWo0?si=BJue2fhX-Rt0aUUB)|SwiftUI, PS algorithms|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Morris Richman](https://mcrich23.com)|[GitHub](https://github.com/Mcrich23/Anchor)|[Video](https://github.com/user-attachments/assets/beb6a3f1-38db-4475-8765-00a0d28a4164)|SwiftUI, Speech, CoreHaptics, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Myung Joon Kang](https://www.x.com/myungjoonkang)|-|-|SwiftUI, AVFoundation, Speech|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -40,4 +41,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Roscoe Rubin-Rottenberg](https://knotbin.xyz)|[GitHub](https://github.com/knotbin/ssc-25)|[YouTube](https://youtu.be/GgueyJrMiuQ?si=OmIf2fHv0LlNXYWk)|SwiftUI, Speech, AVFoundation, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Sahil Prasad](https://x.com/sailorworks)|[GitHub](https://github.com/sailorworks/swift25)|-|SwiftUI, RealityKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 22 | Awarded: 0
+##### Total: 23 | Awarded: 0
