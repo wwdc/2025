@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Lukas Lauerer
+Status: Submitted
+ProjectTitle: SpotOn
+Technologies: SwiftUI, AVFoundation
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://www.twitter.com/custusfox
+SourceUrl: https://github.com/Black-Fox-2022/SpotOn-SSC25
 VideoUrl:
 
 <!---
