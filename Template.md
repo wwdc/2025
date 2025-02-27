@@ -1,11 +1,11 @@
-Name: Venus Bhatia
-Status: Submitted
-ProjectTitle: Connect The Dots
-Technologies: SwiftUI
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://x.com/venusbhatia
+AboutMeUrl:
 SourceUrl:
-VideoUrl: https://www.youtube.com/shorts/6smlF4eMXp8
+VideoUrl:
 
 <!---
 EXAMPLE
