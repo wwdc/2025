@@ -1,11 +1,11 @@
-Name: Vitória Beltrão
-Status: Submitted
-ProjectTitle: Emotionpedia
-Technologies: SwiftUI, ARKit, RealityKit, Vision
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/vitoriabeltrao/
+AboutMeUrl:
 SourceUrl:
-VideoUrl: https://www.youtube.com/watch?v=I3oGPtrsfME
+VideoUrl:
 
 <!---
 EXAMPLE
