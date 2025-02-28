@@ -4,7 +4,7 @@ ProjectTitle: Emotionpedia
 Technologies: SwiftUI, ARKit, RealityKit, Vision
 
 AboutMeUrl: https://www.linkedin.com/in/vitoriabeltrao/
-SourceUrl:
+SourceUrl: https://github.com/vbwo/Emotionpedia-SSC25
 VideoUrl: https://www.youtube.com/watch?v=I3oGPtrsfME
 
 <!---
