@@ -1,11 +1,11 @@
-Name: Leandro
-Status: Submitted
-ProjectTitle: the Terminal-tor
-Technologies: SwiftUI, AVKit
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://x.com/Droni0s
-SourceUrl: https://github.com/Lxdro/the_Terminal-tor
-VideoUrl: Soon
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
