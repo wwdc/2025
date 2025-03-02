@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Ayush Srivastava
+Status: Submitted
+ProjectTitle: ThisSide
+Technologies: SwiftUI, Mapkit, HealthKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://x.com/ayushsrivastv
+SourceUrl: https://github.com/ayushshrivastv/ThisSide
 VideoUrl:
 
 <!---
