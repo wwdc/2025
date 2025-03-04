@@ -17,6 +17,7 @@ If you would like to update your submission status please find your file in `Sub
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
+|[Akshat Saladi](https://akshat-hotpage.vercel.app/)|[GitHub](https://github.com/Akshat2923/Hero-Coach)|[YouTube](https://www.youtube.com/watch?v=A0phG_YCdII)|SwiftUI, SwiftData, CreateML, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Alexandros Samonakis|[GitHub](https://github.com/AloneAlexandros/SSC2025)|[YouTube](https://youtu.be/qnYDLUdTiG8)|SwiftUI, Vision, AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |András Baki|[GitHub](https://github.com/ANDREW414E44524557/findtheapple)|-|SwiftUI, Foundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Asser Osama](https://www.linkedin.com/in/asserusama/)|-|[YouTube](https://youtu.be/b1dvqV9dZwo?si=Acd2yAONKrWTEb24)|Vision, SwiftUI, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -49,4 +50,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Venus Bhatia](https://x.com/venusbhatia)|-|[YouTube](https://www.youtube.com/shorts/6smlF4eMXp8)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 31 | Awarded: 0
+##### Total: 32 | Awarded: 0
