@@ -28,6 +28,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Hunor Zoltáni](https://ronuhz.me)|[GitHub](https://github.com/Ronuhz/Swift-Student-Challenge-2025)|-|SwiftUI, AVKit, Observation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Jack Miller](https://jackmiller.dev)|[GitHub](https://github.com/millerswiftdev/AquaQuest)|-|RealityKit, SwiftData, TipKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[James Deming Kong](https://jameskong098.github.io/)|[GitHub](https://github.com/jameskong098/home-gym)|[YouTube](https://www.youtube.com/watch?v=rw4rHrYH1G0)|SwiftUI, Vision, Charts, AVSpeechSynthesizer|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[José Alencar](https://www.linkedin.com/in/josevalencar/)|[GitHub](https://github.com/josevalencar/SSC-25)|-|SwiftUI, CoreML, Metal|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Kevin Mekic](https://www.linkedin.com/in/kevin-mekic-b5833b170/)|[GitHub](https://github.com/kevinmekic/wwdc2025)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Leandro](https://x.com/Droni0s)|[GitHub](https://github.com/Lxdro/the_Terminal-tor)|-|SwiftUI, AVKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Lucas Lavajo](https://tryon-lab.fr)|[GitHub](https://github.com/tryon-dev/wwdc2025)|-|SwiftUI, CoreMotion, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -48,4 +49,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Venus Bhatia](https://x.com/venusbhatia)|-|[YouTube](https://www.youtube.com/shorts/6smlF4eMXp8)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 30 | Awarded: 0
+##### Total: 31 | Awarded: 0
