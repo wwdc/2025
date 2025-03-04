@@ -1,11 +1,11 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Akshat Saladi
+Status: Submitted
+ProjectTitle: Hero Coach
+Technologies: SwiftUI, SwiftData, CreateML, CoreML, NaturalLanguage, Speech, AVFoundation, and PhotosUI
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://akshat-hotpage.vercel.app/
+SourceUrl: https://github.com/Akshat2923/Hero-Coach/tree/main
+VideoUrl: https://youtu.be/hrKuWgDjMjI
 
 <!---
 EXAMPLE
