@@ -1,10 +1,10 @@
-Name: Alessio Rubicini
-Status: Submitted
-ProjectTitle: Screenplay Genie
-Technologies: SwiftUI
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://alessiorubicini.github.io
-SourceUrl: https://github.com/alessiorubicini/Screenplay-Genie
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
