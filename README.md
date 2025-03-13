@@ -47,8 +47,9 @@ If you would like to update your submission status please find your file in `Sub
 |[Rodrigo Pellanda](https://x.com/pllenin42)|-|[YouTube](https://youtu.be/ic7mI4TN35k)|SwiftUI, SpriteKit, RealityKit, GameplayKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Roscoe Rubin-Rottenberg](https://knotbin.xyz)|[GitHub](https://github.com/knotbin/ssc-25)|[YouTube](https://youtu.be/GgueyJrMiuQ?si=OmIf2fHv0LlNXYWk)|SwiftUI, Speech, AVFoundation, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Sahil Prasad](https://x.com/sailorworks)|[GitHub](https://github.com/sailorworks/swift25)|-|SwiftUI, RealityKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Soleil Chao](https://www.linkedin.com/in/soleil-chao/)|-|-|SwiftUI, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Theeratdolchat Chatchai](https://github.com/Theerat22)|[GitHub](https://github.com/Theerat22/ReKeeper)|[YouTube](https://youtu.be/hx3YWWz6F28?si=N1tH4uGe8BwLjn3d)|SwiftUI, AVFoundation, Vision, PhotosUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Venus Bhatia](https://x.com/venusbhatia)|-|[YouTube](https://www.youtube.com/shorts/6smlF4eMXp8)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 33 | Awarded: 0
+##### Total: 34 | Awarded: 0

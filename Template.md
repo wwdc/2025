@@ -1,9 +1,9 @@
-Name: Soleil Chao
-Status: Submitted
-ProjectTitle: Privacy Conscious
-Technologies: SwiftUI, AVFoundation
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/soleil-chao/
+AboutMeUrl:
 SourceUrl:
 VideoUrl:
 
