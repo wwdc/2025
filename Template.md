@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Ian Quibete
+Status: Submitted
+ProjectTitle: Tracks
+Technologies: SwiftUI, Foundation
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/nexteurarian
+SourceUrl: https://github.com/nexteurarian/TracksAPP
 VideoUrl:
 
 <!---
