@@ -5,7 +5,7 @@ Technologies: SwiftUI, VisionKit, Genmoji, SwiftData, SubViewOf, Navigation Tran
 
 AboutMeUrl: https://omchachad.com
 SourceUrl: https://github.com/OmChachad/DubDubCircle
-VideoUrl:
+VideoUrl: https://youtu.be/NkXkQP9AP_g
 
 <!---
 EXAMPLE
