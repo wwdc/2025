@@ -1,5 +1,5 @@
 Name: Hunor Zoltáni
-Status: Submitted
+Status: Winner
 ProjectTitle: (Not) Lost
 Technologies: SwiftUI, AVKit, Observation
 
