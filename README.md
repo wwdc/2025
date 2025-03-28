@@ -51,6 +51,6 @@ If you would like to update your submission status please find your file in `Sub
 |[Soleil Chao](https://www.linkedin.com/in/soleil-chao/)|-|-|SwiftUI, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Theeratdolchat Chatchai](https://github.com/Theerat22)|[GitHub](https://github.com/Theerat22/ReKeeper)|[YouTube](https://youtu.be/hx3YWWz6F28?si=N1tH4uGe8BwLjn3d)|SwiftUI, AVFoundation, Vision, PhotosUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Venus Bhatia](https://x.com/venusbhatia)|-|[YouTube](https://www.youtube.com/shorts/6smlF4eMXp8)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
 ##### Total: 35 | Awarded: 2
