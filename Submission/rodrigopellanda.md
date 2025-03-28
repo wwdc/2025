@@ -1,5 +1,5 @@
 Name: Rodrigo Pellanda
-Status: Submitted 
+Status: Winner
 ProjectTitle: Vertigo
 Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
 
