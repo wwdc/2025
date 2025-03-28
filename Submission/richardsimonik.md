@@ -1,5 +1,5 @@
 Name: Richard Simonik
-Status: Submitted
+Status: Winner
 ProjectTitle: CPR Helper
 Technologies: SwiftUI
 
