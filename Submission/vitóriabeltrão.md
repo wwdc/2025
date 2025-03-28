@@ -1,5 +1,5 @@
 Name: Vitória Beltrão
-Status: Submitted
+Status: Rejected
 ProjectTitle: Emotionpedia
 Technologies: SwiftUI, ARKit, RealityKit, Vision
 
