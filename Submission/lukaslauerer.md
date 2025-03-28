@@ -1,5 +1,5 @@
 Name: Lukas Lauerer
-Status: Submitted
+Status: Winner
 ProjectTitle: SpotOn
 Technologies: SwiftUI, AVFoundation
 
