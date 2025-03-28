@@ -1,5 +1,5 @@
 Name: Alessio Rubicini
-Status: Submitted
+Status: Winner
 ProjectTitle: Screenplay Genie
 Technologies: SwiftUI
 
