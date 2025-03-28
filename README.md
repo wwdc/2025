@@ -44,7 +44,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Philipp Ollmann](https://philipp-ollmann.super.site/)|[GitHub](https://github.com/philippollmann/wwdc25-fidgetsynth)|[YouTube](https://youtu.be/NHBF3pVmhHw)|SwiftUI, CoreAudio|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |Raphaël Schröder|[GitHub](https://github.com/raphckrman/WWDC-SSC)|-|SwiftUI, CoreHaptics, SwiftData, UserNotifications|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Richard Simonik](https://linkedin.com/in/richard-%C5%A1imon%C3%ADk-6603712a2)|[GitHub](https://github.com/risasim/CPRHelperv2)|-|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
-|[Riju Ishiwatari](https://x.com/acrostorn?s=21)|[GitHub](https://github.com/acrostorn/OrbitPlay)|[YouTube](https://www.youtube.com/watch?v=GaSuNM9kLKg)|SwiftUI, ARKit, SceneKit, Charts|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Riju Ishiwatari](https://x.com/acrostorn?s=21)|[GitHub](https://github.com/acrostorn/OrbitPlay)|[YouTube](https://www.youtube.com/watch?v=GaSuNM9kLKg)|SwiftUI, ARKit, SceneKit, Charts|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Rodrigo Pellanda](https://x.com/pllenin42)|-|[YouTube](https://youtu.be/ic7mI4TN35k)|SwiftUI, SpriteKit, RealityKit, GameplayKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Roscoe Rubin-Rottenberg](https://knotbin.xyz)|[GitHub](https://github.com/knotbin/ssc-25)|[YouTube](https://youtu.be/GgueyJrMiuQ?si=OmIf2fHv0LlNXYWk)|SwiftUI, Speech, AVFoundation, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Sahil Prasad](https://x.com/sailorworks)|[GitHub](https://github.com/sailorworks/swift25)|-|SwiftUI, RealityKit, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -53,4 +53,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Venus Bhatia](https://x.com/venusbhatia)|-|[YouTube](https://www.youtube.com/shorts/6smlF4eMXp8)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 35 | Awarded: 6
+##### Total: 35 | Awarded: 7
