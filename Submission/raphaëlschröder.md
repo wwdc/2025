@@ -1,5 +1,5 @@
 Name: Raphaël Schröder
-Status: Submitted
+Status: Rejected
 ProjectTitle: ReCall
 Technologies: SwiftUI, CoreHaptics, SwiftData, UserNotifications
 
