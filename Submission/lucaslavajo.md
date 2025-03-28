@@ -1,5 +1,5 @@
 Name: Lucas Lavajo
-Status: Submitted
+Status: Rejected
 ProjectTitle: Movies
 Technologies: SwiftUI, CoreMotion, Vision
 
