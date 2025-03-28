@@ -27,7 +27,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Dhruv Goswami](https://www.linkedin.com/in/Dhruv-Goswami-24-/)|[GitHub](https://github.com/DhruvGoswami10/Error_404-Game_not_found_SSC)|-|SwiftUI, SpriteKit, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Dyari Bahadin](https://x.com/0dbug_)|[GitHub](https://github.com/0xdbug/Armillary)|[YouTube](https://youtu.be/ogBnf7YMmGY?si=XB_wk4u2zCR9ecPj)|SwiftUI, SceneKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Francesco Paciello](https://x.com/paciosdev)|[GitHub](https://github.com/paciosdev/Adventure-of-a-Distinguished-Winner-SSC25-)|-|SwiftUI, SpriteKit, AVFoundation, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[Hunor Zoltáni](https://ronuhz.me)|[GitHub](https://github.com/Ronuhz/Swift-Student-Challenge-2025)|-|SwiftUI, AVKit, Observation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Hunor Zoltáni](https://ronuhz.me)|[GitHub](https://github.com/Ronuhz/Swift-Student-Challenge-2025)|-|SwiftUI, AVKit, Observation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Ian Quibete](https://github.com/nexteurarian)|[GitHub](https://github.com/nexteurarian/TracksAPP)|-|SwiftUI, Foundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Jack Miller](https://jackmiller.dev)|[GitHub](https://github.com/millerswiftdev/AquaQuest)|-|RealityKit, SwiftData, TipKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[James Deming Kong](https://jameskong098.github.io/)|[GitHub](https://github.com/jameskong098/home-gym)|[YouTube](https://www.youtube.com/watch?v=rw4rHrYH1G0)|SwiftUI, Vision, Charts, AVSpeechSynthesizer|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -53,4 +53,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Venus Bhatia](https://x.com/venusbhatia)|-|[YouTube](https://www.youtube.com/shorts/6smlF4eMXp8)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 35 | Awarded: 0
+##### Total: 35 | Awarded: 1
