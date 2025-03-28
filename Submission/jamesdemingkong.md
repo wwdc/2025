@@ -1,5 +1,5 @@
 Name: James Deming Kong
-Status: Submitted
+Status: Accepted
 ProjectTitle: Home Gym
 Technologies: SwiftUI, Vision, Charts, AVSpeechSynthesizer
 
