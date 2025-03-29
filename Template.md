@@ -1,5 +1,5 @@
 Name: Roman Zhuzhgov
-Status: Accepted
+Status: Winner
 ProjectTitle: Odyssey
 Technologies: SwiftUI, ARKit, RealityKit, TipKit, Metal
 
