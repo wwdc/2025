@@ -1,5 +1,5 @@
 Name: Ian Quibete
-Status: Submitted
+Status: Rejected
 ProjectTitle: Tracks
 Technologies: SwiftUI, Foundation
 
