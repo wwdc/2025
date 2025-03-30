@@ -1,9 +1,9 @@
-Name: Roman Zhuzhgov
-Status: Winner
-ProjectTitle: Odyssey
-Technologies: SwiftUI, ARKit, RealityKit, TipKit, Metal
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://t.me/mi11ione
+AboutMeUrl:
 SourceUrl:
 VideoUrl:
 
