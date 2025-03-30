@@ -1,11 +1,11 @@
-Name: Alpay Calalli
-Status: Accepted
-ProjectTitle: BasketballAnalyzer
-Technologies: SwiftUI, UIKit, Vision
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/alpay-calalli-a72bb0248/
-SourceUrl: https://github.com/alpaycli/BasketballAnalyzer
-VideoUrl: https://x.com/calalli24/status/1893307035933938008
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
