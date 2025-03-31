@@ -1,5 +1,5 @@
 Name: Alpay Calalli
-Status: Accepted
+Status: Winner
 ProjectTitle: BasketballAnalyzer
 Technologies: SwiftUI, UIKit, Vision
 
