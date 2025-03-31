@@ -1,5 +1,5 @@
 Name: Morris Richman
-Status: Submitted
+Status: Winner
 ProjectTitle: Anchor
 Technologies: SwiftUI, Speech, CoreHaptics, PencilKit
 
