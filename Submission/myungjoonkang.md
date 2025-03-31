@@ -1,5 +1,5 @@
 Name: Myung Joon Kang
-Status: Submitted
+Status: Winner
 ProjectTitle: SpeechPath
 Technologies: SwiftUI, AVFoundation, Speech
 
