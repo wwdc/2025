@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Stefanus Albert Wilson
+Status: Winner
+ProjectTitle: GuardUp
+Technologies: SwiftUI, CoreML
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://www.stefanuswilson.com
+SourceUrl: https://github.com/abedsully/GuardUp
 VideoUrl:
 
 <!---
