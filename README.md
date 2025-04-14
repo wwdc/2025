@@ -43,6 +43,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Myung Joon Kang](https://myungjoon.com)|-|[Video](https://speechpath.site)|SwiftUI, AVFoundation, Speech|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[OliverPark](https://www.olivergpark.com)|[GitHub](https://github.com/oliver0828-dev/JeongKimchi)|-|SwiftUI, MapKit, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Om Chachad](https://omchachad.com)|[GitHub](https://github.com/OmChachad/DubDubCircle)|[YouTube](https://youtu.be/NkXkQP9AP_g)|SwiftUI, VisionKit, Genmoji, SwiftData|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
+|[Paulo Brand](https://www.linkedin.com/in/paulobrand)|[GitHub](https://github.com/PauloBrand7/BeatSync-WWDC25)|-|SwiftUI, AVFoundation, SceneKit|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Philipp Ollmann](https://philipp-ollmann.super.site/)|[GitHub](https://github.com/philippollmann/wwdc25-fidgetsynth)|[YouTube](https://youtu.be/NHBF3pVmhHw)|SwiftUI, CoreAudio|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |Raphaël Schröder|[GitHub](https://github.com/raphckrman/WWDC-SSC)|-|SwiftUI, CoreHaptics, SwiftData, UserNotifications|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Richard Simonik](https://linkedin.com/in/richard-%C5%A1imon%C3%ADk-6603712a2)|[GitHub](https://github.com/risasim/CPRHelperv2)|-|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
@@ -56,4 +57,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Venus Bhatia](https://x.com/venusbhatia)|-|[YouTube](https://www.youtube.com/shorts/6smlF4eMXp8)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 38 | Awarded: 15
+##### Total: 39 | Awarded: 16
