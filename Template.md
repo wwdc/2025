@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Paulo Brand
+Status: Winner
+ProjectTitle: BeatSync
+Technologies: SwiftUI, AVFoundation, SceneKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://www.linkedin.com/in/paulobrand
+SourceUrl: https://github.com/PauloBrand7/BeatSync-WWDC25
 VideoUrl:
 
 <!---
