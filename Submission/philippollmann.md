@@ -1,5 +1,5 @@
 Name: Philipp Ollmann
-Status: Submitted
+Status: Winner
 ProjectTitle: Fidget Synth
 Technologies: SwiftUI, CoreAudio
 
