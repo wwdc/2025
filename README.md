@@ -38,6 +38,7 @@ If you would like to update your submission status please find your file in `Sub
 |[José Alencar](https://www.linkedin.com/in/josevalencar/)|[GitHub](https://github.com/josevalencar/SSC-25)|-|SwiftUI, CoreML, Metal|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Kevin Mekic](https://www.linkedin.com/in/kevin-mekic-b5833b170/)|[GitHub](https://github.com/kevinmekic/wwdc2025)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Leandro](https://x.com/Droni0s)|[GitHub](https://github.com/Lxdro/the_Terminal-tor)|-|SwiftUI, AVKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Leandro Tolaini](https://x.com/Droni0s)|[GitHub](https://github.com/Lxdro/the_Terminal-tor)|-|SwiftUI|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
 |[Lucas Lavajo](https://tryon-lab.fr)|[GitHub](https://github.com/tryon-dev/wwdc2025)|-|SwiftUI, CoreMotion, Vision|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Lukas Lauerer](https://www.twitter.com/custusfox)|[GitHub](https://github.com/Black-Fox-2022/SpotOn-SSC25)|-|SwiftUI, AVFoundation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Mhmd Ebrahim](https://www.linkedin.com/in/mhmd-ebrahim)|-|[YouTube](https://youtu.be/QXox8H-kWo0?si=BJue2fhX-Rt0aUUB)|SwiftUI, PS algorithms|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -61,4 +62,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Venus Bhatia](https://x.com/venusbhatia)|-|[YouTube](https://www.youtube.com/shorts/6smlF4eMXp8)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 43 | Awarded: 20
+##### Total: 44 | Awarded: 21
