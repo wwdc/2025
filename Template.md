@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Leandro Tolaini
+Status: Distinguished
+ProjectTitle: the Terminal-tor
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://x.com/Droni0s
+SourceUrl: https://github.com/Lxdro/the_Terminal-tor
 VideoUrl:
 
 <!---
