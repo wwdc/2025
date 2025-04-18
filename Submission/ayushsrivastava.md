@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
-Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+Name: Ayush Srivastava
+Status: Submitted
+ProjectTitle: ThisSide
+Technologies: SwiftUI, Mapkit, HealthKit
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://x.com/ayushsrivastv
+SourceUrl: https://github.com/ayushshrivastv/ThisSide
+VideoUrl:
 
 <!---
 EXAMPLE

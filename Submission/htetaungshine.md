@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
+Name: Htet Aung Shine
 Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+ProjectTitle: EcoVision
+Technologies: SwiftUI, CoreML, AVFoundation, Vision
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://www.linkedin.com/in/htet-aung-shine-41ab62256/
+SourceUrl: https://github.com/HtetAungShine6/EcoVision.git
+VideoUrl: 
 
 <!---
 EXAMPLE

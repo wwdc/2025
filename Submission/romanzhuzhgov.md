@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
+Name: Roman Zhuzhgov
 Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+ProjectTitle: Odyssey
+Technologies: SwiftUI, ARKit, RealityKit, TipKit, Metal
 
-AboutMeUrl: https://x.com/pllenin42
+AboutMeUrl: https://t.me/mi11ione
 SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+VideoUrl:
 
 <!---
 EXAMPLE

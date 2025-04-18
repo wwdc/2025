@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
-Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+Name: Soleil Chao
+Status: Submitted
+ProjectTitle: Privacy Conscious
+Technologies: SwiftUI, AVFoundation
 
-AboutMeUrl: https://x.com/pllenin42
+AboutMeUrl: https://www.linkedin.com/in/soleil-chao/
 SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+VideoUrl:
 
 <!---
 EXAMPLE

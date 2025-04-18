@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
+Name: Arnav Singhal
 Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+ProjectTitle: Elmora
+Technologies: Swift, SwiftUI
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://www.linkedin.com/in/arnavarw/
+SourceUrl: https://github.com/Arnav-arw/Elmora-SSC-2025
+VideoUrl: 
 
 <!---
 EXAMPLE

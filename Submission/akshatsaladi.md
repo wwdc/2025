@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
-Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+Name: Akshat Saladi
+Status: Submitted
+ProjectTitle: Hero Coach
+Technologies: SwiftUI, SwiftData, CreateML, CoreML, NaturalLanguage, Speech, AVFoundation, and PhotosUI.
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://akshat-hotpage.vercel.app/
+SourceUrl: https://github.com/Akshat2923/Hero-Coach
+VideoUrl: https://www.youtube.com/watch?v=A0phG_YCdII
 
 <!---
 EXAMPLE

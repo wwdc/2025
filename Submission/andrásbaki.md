@@ -1,5 +1,5 @@
 Name: András Baki
-Status: Submitted
+Status: Rejected
 ProjectTitle: FindTheApple
 Technologies: SwiftUI, Foundation
 

@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
+Name: Alessio Rubicini
 Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+ProjectTitle: Screenplay Genie
+Technologies: SwiftUI
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://alessiorubicini.github.io
+SourceUrl: https://github.com/alessiorubicini/Screenplay-Genie
+VideoUrl:
 
 <!---
 EXAMPLE

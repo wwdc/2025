@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
-Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+Name: Leandro
+Status: Submitted
+ProjectTitle: the Terminal-tor
+Technologies: SwiftUI, AVKit
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://x.com/Droni0s
+SourceUrl: https://github.com/Lxdro/the_Terminal-tor
+VideoUrl: Soon
 
 <!---
 EXAMPLE

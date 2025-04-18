@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
-Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+Name: Ian Quibete
+Status: Rejected
+ProjectTitle: Tracks
+Technologies: SwiftUI, Foundation
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://github.com/nexteurarian
+SourceUrl: https://github.com/nexteurarian/TracksAPP
+VideoUrl:
 
 <!---
 EXAMPLE

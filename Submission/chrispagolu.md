@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
+Name: Chris Pagolu
 Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+ProjectTitle: Tree Buddy
+Technologies: SwiftUI, RealityKit, ARKit, TipKit, AVFoundation, Combine, Charts, GameKit
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://www.linkedin.com/in/chris-pagolu-837368246/
+SourceUrl: https://github.com/AllStars101-sudo/Tree-Buddy
+VideoUrl:
 
 <!---
 EXAMPLE

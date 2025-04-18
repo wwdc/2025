@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
+Name: Paulo Brand
 Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+ProjectTitle: BeatSync
+Technologies: SwiftUI, AVFoundation, SceneKit
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://www.linkedin.com/in/paulobrand
+SourceUrl: https://github.com/PauloBrand7/BeatSync-WWDC25
+VideoUrl:
 
 <!---
 EXAMPLE

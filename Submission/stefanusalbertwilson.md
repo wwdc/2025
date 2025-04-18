@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
+Name: Stefanus Albert Wilson
 Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+ProjectTitle: GuardUp
+Technologies: SwiftUI, CoreML
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://www.stefanuswilson.com
+SourceUrl: https://github.com/abedsully/GuardUp
+VideoUrl:
 
 <!---
 EXAMPLE

@@ -1,11 +1,11 @@
-Name: Rodrigo Pellanda
-Status: Winner
-ProjectTitle: Vertigo
-Technologies: SwiftUI, SpriteKit, RealityKit, GameplayKit
+Name: José Alencar
+Status: Submitted
+ProjectTitle: Brian
+Technologies: SwiftUI, CoreML, Metal
 
-AboutMeUrl: https://x.com/pllenin42
-SourceUrl:
-VideoUrl: https://youtu.be/ic7mI4TN35k
+AboutMeUrl: https://www.linkedin.com/in/josevalencar/
+SourceUrl: https://github.com/josevalencar/SSC-25
+VideoUrl: 
 
 <!---
 EXAMPLE
