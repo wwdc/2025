@@ -1,7 +1,7 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Kosei Miyamoto
+Status: Submitted
+ProjectTitle: Pip&Forest
+Technologies: SwiftUI, AVFoundation, PencilKit
 
 AboutMeUrl:
 SourceUrl:
