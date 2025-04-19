@@ -1,11 +1,11 @@
 Name: James Deming Kong
-Status: Accepted
+Status: Winner
 ProjectTitle: Home Gym
 Technologies: SwiftUI, Vision, Charts, AVSpeechSynthesizer
 
 AboutMeUrl: https://jameskong098.github.io/
 SourceUrl: https://github.com/jameskong098/home-gym
-VideoUrl: https://www.youtube.com/watch?v=rw4rHrYH1G0
+VideoUrl: https://www.youtube.com/watch?v=dsgAGXltOJE
 
 <!---
 EXAMPLE
