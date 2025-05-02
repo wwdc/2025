@@ -4,7 +4,7 @@ ProjectTitle: Pencil nib
 Technologies: SwiftUI UIKit Pencil Kit AVFoundation
 
 
-AboutMeUrl:playgame223344@outlook.com 
+AboutMeUrl: https://discord.gg/58tJaJNP
 SourceUrl: 
 VideoUrl: https://youtu.be/oRIB38hXKTc
 
