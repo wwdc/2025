@@ -1,7 +1,7 @@
 Name: Xingyu Lu
 Status: Distinguished
 ProjectTitle: Pencil nib
-Technologies: SwiftUI UIKit Pencil Kit AVFoundation
+Technologies: SwiftUI, UIKit, Pencil Kit, AVFoundation
 
 
 AboutMeUrl: https://discord.gg/58tJaJNP
