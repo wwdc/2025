@@ -29,6 +29,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Chris Pagolu](https://www.linkedin.com/in/chris-pagolu-837368246/)|[GitHub](https://github.com/AllStars101-sudo/Tree-Buddy)|-|SwiftUI, RealityKit, ARKit, TipKit|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Dhruv Goswami](https://www.linkedin.com/in/Dhruv-Goswami-24-/)|[GitHub](https://github.com/DhruvGoswami10/Error_404-Game_not_found_SSC)|-|SwiftUI, SpriteKit, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Dyari Bahadin](https://x.com/0dbug_)|[GitHub](https://github.com/0xdbug/Armillary)|[YouTube](https://youtu.be/ogBnf7YMmGY?si=XB_wk4u2zCR9ecPj)|SwiftUI, SceneKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Fayaz Shaikh](https://fayaz.one)|[GitHub](https://github.com/fayaz12g/GyroCam)|[YouTube](https://www.youtube.com/watch?v=q6XoJlkMB5Q)|SwiftUI, AVFoundation, CoreMotion, CoreLocation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Francesco Paciello](https://x.com/paciosdev)|[GitHub](https://github.com/paciosdev/Adventure-of-a-Distinguished-Winner-SSC25-)|-|SwiftUI, SpriteKit, AVFoundation, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Htet Aung Shine](https://www.linkedin.com/in/htet-aung-shine-41ab62256/)|[GitHub](https://github.com/HtetAungShine6/EcoVision.git)|-|SwiftUI, CoreML, AVFoundation, Vision|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Hunor Zoltáni](https://ronuhz.me)|[GitHub](https://github.com/Ronuhz/Swift-Student-Challenge-2025)|-|SwiftUI, AVKit, Observation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
@@ -62,4 +63,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Venus Bhatia](https://x.com/venusbhatia)|-|[YouTube](https://www.youtube.com/shorts/6smlF4eMXp8)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Vitória Beltrão](https://www.linkedin.com/in/vitoriabeltrao/)|[GitHub](https://github.com/vbwo/Emotionpedia-SSC25)|[YouTube](https://www.youtube.com/watch?v=I3oGPtrsfME)|SwiftUI, ARKit, RealityKit, Vision|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 44 | Awarded: 21
+##### Total: 45 | Awarded: 22
