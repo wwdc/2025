@@ -1,12 +1,11 @@
-Name: Xingyu Lu
-Status: Distinguished
-ProjectTitle: Pencil nib
-Technologies: SwiftUI UIKit Pencil Kit AVFoundation
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-
-AboutMeUrl: https://discord.gg/58tJaJNP
-SourceUrl: 
-VideoUrl: https://youtu.be/oRIB38hXKTc
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
