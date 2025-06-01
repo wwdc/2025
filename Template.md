@@ -1,9 +1,9 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Zehao (Dylan) Lin
+Status: Distinguished
+ProjectTitle: SmartFridge
+Technologies: SwiftUI, SwiftData
 
-AboutMeUrl:
+AboutMeUrl: https://www.linkedin.com/in/zdlin/
 SourceUrl:
 VideoUrl:
 
