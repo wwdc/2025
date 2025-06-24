@@ -1,6 +1,6 @@
 Name: Jianxi Peng
 Status: Winner
-ProjectTitle: Binary-Jigasw-Apple-WWDC25-Swift-Student-Challenge-2025-winner
+ProjectTitle: Binary Jigasw
 Technologies: SwiftUI
 
 AboutMeUrl: 
