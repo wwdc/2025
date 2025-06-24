@@ -36,6 +36,8 @@ If you would like to update your submission status please find your file in `Sub
 |[Ian Quibete](https://github.com/nexteurarian)|[GitHub](https://github.com/nexteurarian/TracksAPP)|-|SwiftUI, Foundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Jack Miller](https://jackmiller.dev)|[GitHub](https://github.com/millerswiftdev/AquaQuest)|-|RealityKit, SwiftData, TipKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[James Deming Kong](https://jameskong098.github.io/)|[GitHub](https://github.com/jameskong098/home-gym)|[YouTube](https://www.youtube.com/watch?v=dsgAGXltOJE)|SwiftUI, Vision, Charts, AVSpeechSynthesizer|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
+|Jianxi Peng|[GitHub](https://github.com/Alreiters)|-|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
+|Jianxi Peng|[GitHub](https://github.com/Alreiters/Binary-Jigasw-Apple-WWDC25-Swift-Student-Challenge-2025-winner)|-|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[José Alencar](https://www.linkedin.com/in/josevalencar/)|[GitHub](https://github.com/josevalencar/SSC-25)|-|SwiftUI, CoreML, Metal|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Jotaro Sugiyama](https://x.com/sugijotaro)|[GitHub](https://github.com/sugijotaro/Kirigami-SSC25)|[YouTube](https://www.youtube.com/watch?v=Hxq6_Sf9lFE)|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Kevin Mekic](https://www.linkedin.com/in/kevin-mekic-b5833b170/)|[GitHub](https://github.com/kevinmekic/wwdc2025)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -68,4 +70,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Xingyu Lu](https://discord.gg/58tJaJNP)|-|[YouTube](https://youtu.be/oRIB38hXKTc)|SwiftUI, UIKit, Pencil Kit, AVFoundation|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
 |[Zehao (Dylan) Lin](https://www.linkedin.com/in/zdlin/)|-|-|SwiftUI, SwiftData|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
 
-##### Total: 50 | Awarded: 25
+##### Total: 52 | Awarded: 27
