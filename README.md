@@ -55,6 +55,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Richard Simonik](https://linkedin.com/in/richard-%C5%A1imon%C3%ADk-6603712a2)|[GitHub](https://github.com/risasim/CPRHelperv2)|-|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Riju Ishiwatari](https://x.com/acrostorn?s=21)|[GitHub](https://github.com/acrostorn/OrbitPlay)|[YouTube](https://www.youtube.com/watch?v=GaSuNM9kLKg)|SwiftUI, ARKit, SceneKit, Charts|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Rodrigo Pellanda](https://x.com/pllenin42)|-|[YouTube](https://youtu.be/ic7mI4TN35k)|SwiftUI, SpriteKit, RealityKit, GameplayKit|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
+|[Rodrigo Soares](https://linkedin.com/in/roosoars)|[GitHub](https://github.com/roosoars/FaceQuiz)|-|SwiftUI, CoreML, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Roman Zhuzhgov](https://t.me/mi11ione)|-|-|SwiftUI, ARKit, RealityKit, TipKit|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Roscoe Rubin-Rottenberg](https://knotbin.xyz)|[GitHub](https://github.com/knotbin/ssc-25)|[YouTube](https://youtu.be/GgueyJrMiuQ?si=OmIf2fHv0LlNXYWk)|SwiftUI, Speech, AVFoundation, Combine|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Sahil Prasad](https://x.com/sailorworks)|[GitHub](https://github.com/sailorworks/swift25)|-|SwiftUI, RealityKit, Combine|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
@@ -67,4 +68,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Xingyu Lu](https://discord.gg/58tJaJNP)|-|[YouTube](https://youtu.be/oRIB38hXKTc)|SwiftUI, UIKit, Pencil Kit, AVFoundation|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
 |[Zehao (Dylan) Lin](https://www.linkedin.com/in/zdlin/)|-|-|SwiftUI, SwiftData|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
 
-##### Total: 49 | Awarded: 25
+##### Total: 50 | Awarded: 25
