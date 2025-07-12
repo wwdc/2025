@@ -1,11 +1,11 @@
-Name: Jiya Damara
-Status: Winner
-ProjectTitle: Pet SOS
-Technologies: SwiftUI
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: Jiya Damara
-SourceUrl: -
-VideoUrl: https://www.youtube.com/shorts/kLbambDEPU0
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
