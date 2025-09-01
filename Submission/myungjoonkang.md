@@ -5,7 +5,7 @@ Technologies: SwiftUI, AVFoundation, Speech
 
 AboutMeUrl: https://myungjoon.com
 SourceUrl:
-VideoUrl: https://speechpath.site
+VideoUrl: https://myungjoon.com/speechpath
 
 <!---
 EXAMPLE
