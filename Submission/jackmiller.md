@@ -1,5 +1,5 @@
 Name: Jack Miller
-Status: Submitted
+Status: Rejected
 ProjectTitle: AquaQuest
 Technologies: RealityKit, SwiftData, TipKit
 
