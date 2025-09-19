@@ -34,7 +34,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Htet Aung Shine](https://www.linkedin.com/in/htet-aung-shine-41ab62256/)|[GitHub](https://github.com/HtetAungShine6/EcoVision.git)|-|SwiftUI, CoreML, AVFoundation, Vision|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Hunor Zoltáni](https://ronuhz.me)|[GitHub](https://github.com/Ronuhz/Swift-Student-Challenge-2025)|-|SwiftUI, AVKit, Observation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Ian Quibete](https://github.com/nexteurarian)|[GitHub](https://github.com/nexteurarian/TracksAPP)|-|SwiftUI, Foundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
-|[Jack Miller](https://jackmiller.dev)|[GitHub](https://github.com/millerswiftdev/AquaQuest)|-|RealityKit, SwiftData, TipKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Jack Miller](https://jackmiller.dev)|[GitHub](https://github.com/millerswiftdev/AquaQuest)|-|RealityKit, SwiftData, TipKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[James Deming Kong](https://jameskong098.github.io/)|[GitHub](https://github.com/jameskong098/home-gym)|[YouTube](https://www.youtube.com/watch?v=dsgAGXltOJE)|SwiftUI, Vision, Charts, AVSpeechSynthesizer|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |Jianxi Peng|[GitHub](https://github.com/Alreiters)|-|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |Jiya Damara|-|[YouTube](https://www.youtube.com/shorts/kLbambDEPU0)|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
