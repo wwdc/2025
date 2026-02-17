@@ -1,10 +1,10 @@
-Name: Khaled Samim
-Status: Submitted
-ProjectTitle: Planet 🪐
-Technologies: Swift, SwiftUI, CoreAnimation
+Name:
+Status:
+ProjectTitle:
+Technologies:
 
-AboutMeUrl: https://github.com/itkhld1
-SourceUrl: https://github.com/itkhld1/Planet/tree/main
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---

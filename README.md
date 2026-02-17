@@ -41,6 +41,7 @@ If you would like to update your submission status please find your file in `Sub
 |[José Alencar](https://www.linkedin.com/in/josevalencar/)|[GitHub](https://github.com/josevalencar/SSC-25)|-|SwiftUI, CoreML, Metal|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Jotaro Sugiyama](https://x.com/sugijotaro)|[GitHub](https://github.com/sugijotaro/Kirigami-SSC25)|[YouTube](https://www.youtube.com/watch?v=Hxq6_Sf9lFE)|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Kevin Mekic](https://www.linkedin.com/in/kevin-mekic-b5833b170/)|[GitHub](https://github.com/kevinmekic/wwdc2025)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Khaled Samim](https://github.com/itkhld1)|[GitHub](https://github.com/itkhld1/Planet/tree/main)|-|Swift, SwiftUI, CoreAnimation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Kosei Miyamoto|[GitHub](https://github.com/user-attachments/files/19820310/Pip.Forest.swiftpm.zip)|-|SwiftUI, AVFoundation, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Leandro](https://x.com/Droni0s)|[GitHub](https://github.com/Lxdro/the_Terminal-tor)|-|SwiftUI, AVKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Leandro Tolaini](https://x.com/Droni0s)|[GitHub](https://github.com/Lxdro/the_Terminal-tor)|-|SwiftUI|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
@@ -70,4 +71,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Xingyu Lu](https://discord.gg/58tJaJNP)|-|[YouTube](https://youtu.be/oRIB38hXKTc)|SwiftUI, UIKit, Pencil Kit, AVFoundation|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
 |[Zehao (Dylan) Lin](https://www.linkedin.com/in/zdlin/)|-|-|SwiftUI, SwiftData|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
 
-##### Total: 52 | Awarded: 27
+##### Total: 53 | Awarded: 27
