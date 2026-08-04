@@ -48,6 +48,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Lucas Lavajo](https://tryon-lab.fr)|[GitHub](https://github.com/tryon-dev/wwdc2025)|-|SwiftUI, CoreMotion, Vision|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Lukas Lauerer](https://www.twitter.com/custusfox)|[GitHub](https://github.com/Black-Fox-2022/SpotOn-SSC25)|-|SwiftUI, AVFoundation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Mhmd Ebrahim](https://www.linkedin.com/in/mhmd-ebrahim)|-|[YouTube](https://youtu.be/QXox8H-kWo0?si=BJue2fhX-Rt0aUUB)|SwiftUI, PS algorithms|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Min Jae Lee](https://www.linkedin.com/in/mini-min/)|[GitHub](https://github.com/mini-min/Eolssu)|[YouTube](https://www.youtube.com/watch?v=CUOGi5JISF8)|SwiftUI, AVFoundation, Combine|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Morris Richman](https://mcrich23.com)|[GitHub](https://github.com/Mcrich23/Anchor)|[Video](https://github.com/user-attachments/assets/beb6a3f1-38db-4475-8765-00a0d28a4164)|SwiftUI, Speech, CoreHaptics, PencilKit|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Myung Joon Kang](https://myungjoon.com)|-|[Video](https://myungjoon.com/speechpath)|SwiftUI, AVFoundation, Speech|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[OliverPark](https://www.olivergpark.com)|[GitHub](https://github.com/oliver0828-dev/JeongKimchi)|-|SwiftUI, MapKit, SwiftData|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -71,4 +72,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Xingyu Lu](https://discord.gg/58tJaJNP)|-|[YouTube](https://youtu.be/oRIB38hXKTc)|SwiftUI, UIKit, Pencil Kit, AVFoundation|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
 |[Zehao (Dylan) Lin](https://www.linkedin.com/in/zdlin/)|-|-|SwiftUI, SwiftData|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
 
-##### Total: 53 | Awarded: 27
+##### Total: 54 | Awarded: 28
