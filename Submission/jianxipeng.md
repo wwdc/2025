@@ -5,5 +5,4 @@ Technologies: SwiftUI
 
 AboutMeUrl: 
 SourceUrl: https://github.com/Alreiters
-VideoUrl:
-
+VideoUrl: 
