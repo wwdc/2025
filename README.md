@@ -16,7 +16,7 @@ Use the **[update form](https://github.com/wwdc/2025/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
 |:--|:--|:--|
 | [Akshat Saladi](https://akshat-hotpage.vercel.app/)<br><sub>Hero Coach</sub> | [GitHub](https://github.com/Akshat2923/Hero-Coach) · [Video](https://www.youtube.com/watch?v=A0phG_YCdII)<br><sub>SwiftUI, SwiftData, CreateML, CoreML +4</sub> | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
 | [Alessio Rubicini](https://alessiorubicini.github.io)<br><sub>Screenplay Genie</sub> | [GitHub](https://github.com/alessiorubicini/Screenplay-Genie)<br><sub>SwiftUI</sub> | ![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge) |
